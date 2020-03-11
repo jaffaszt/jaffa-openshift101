@@ -1,3 +1,3 @@
 # Introduction to Openshift by Jaffa Sztejnbok 
 
-[Presentation](xxx.pdf)
+[Presentation](openshift 101 ppt.pdf)
