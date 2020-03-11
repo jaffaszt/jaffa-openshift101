@@ -1,10 +1,3 @@
-Step 1. Register IBM Cloud & Get Feature Code
-
-Step 2. Get access to Openshift Cluster
-Lab Key : oslab
-IBMid : your email
-
-
 
 # 1. Register to IBM Cloud 
 
