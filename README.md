@@ -18,8 +18,7 @@ Many people and groups worked on the following workshops and classes, parts of w
 
 If you would like to see the detailed LICENSE click [here](LICENSE).
 
-- Author: Sai Vennam <svennam@us.ibm.com>, IBM Cloud Offering Manager
-- Maintainers: Developer Advocates from IBM Cloud
+
 
 ```text
 Copyright:: 2019- IBM, Inc
