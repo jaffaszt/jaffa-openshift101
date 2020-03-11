@@ -18,16 +18,18 @@ Use :
 [OpenShift 101: Learn the Basics of Red Hat OpenShift on IBM Cloud](https://github.com/IBM/openshift101/tree/master/workshop)
 
 # Usefull Links :
-IBM Developer Website
 
-Watson Services
+[Call for Code](https://developer.ibm.com/callforcode/)
 
-IBM Cloud Dashboard
+[IBM Developer Website](https://developer.ibm.com/)
 
-OpenShift Labs
+[Watson Services](https://cloud.ibm.com/catalog?category=ai)
 
-Cloud Pak for Data
+[IBM Cloud Dashboard](https://cloud.ibm.com/)
+
+[OpenShift Labs](https://github.com/openshift-labs/starter-guides)
+
+[Cloud Pak for Data](https://www.ibm.com/products/cloud-pak-for-data )
 
 
 
-https://developer.ibm.com/
