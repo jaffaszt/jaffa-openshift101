@@ -12,7 +12,7 @@ Use :
   IBMid : `your emailRegister to IBM Cloud`    
 
 ![](../README_images/oslab.png)
-workshop/README_images/oslab.png
+![](workshop/README_images/oslab.png)
 
 Step 3.
 OpenShift 101: Learn the Basics of Red Hat OpenShift on IBM Cloud
