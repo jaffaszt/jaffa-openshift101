@@ -13,10 +13,11 @@ Use :
 
 ![](README_images/oslab.png)
 
-Step 3.
-OpenShift 101: Learn the Basics of Red Hat OpenShift on IBM Cloud
+# Step 3. Run the LAB 
 
-Usefull Links :
+[OpenShift 101: Learn the Basics of Red Hat OpenShift on IBM Cloud](https://github.com/IBM/openshift101/tree/master/workshop)
+
+# Usefull Links :
 IBM Developer Website
 
 Watson Services
