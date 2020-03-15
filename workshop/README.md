@@ -15,7 +15,7 @@ Use :
 
 # Step 3. Run the LAB 
 
-[OpenShift 101: Learn the Basics of Red Hat OpenShift on IBM Cloud](https://github.com/IBM/openshift101/tree/master/workshop)
+[OpenShift 101: Learn the Basics of Red Hat OpenShift on IBM Cloud](https://github.com/jaffaszt/openshift101/tree/master/workshop)
 
 # Usefull Links :
 
