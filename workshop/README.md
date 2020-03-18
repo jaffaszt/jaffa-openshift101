@@ -14,8 +14,11 @@ Use :
 ![](README_images/oslab.png)
 
 # Step 3. Run the LAB 
+Please notice: 
+1. Please run Exercise 1-4 .
+2. You could also run Exercise 6 . For that you will need to either use cloudshell with https://shell.cloud.ibm.com/ and install Docker there , or go over the [Setup CLI Access for the cluster](https://ibm-developer.gitbook.io/openshift101/getting-started/setup_cli) and then install Docker 
 
-[OpenShift 101: Learn the Basics of Red Hat OpenShift on IBM Cloud](https://github.com/jaffaszt/openshift101/tree/master/workshop)
+[OpenShift 101: Learn the Basics of Red Hat OpenShift on IBM Cloud](https://ibm-developer.gitbook.io/openshift101/)
 
 # Usefull Links :
 
