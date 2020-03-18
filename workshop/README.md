@@ -14,7 +14,7 @@ Use :
 ![](README_images/oslab.png)
 
 Then follow the instructions ( it will look like this ) 
-![](connectToYouCluster.png)
+![](README_images/connectToYouCluster.png)
 
 # Step 3. Run the LAB 
 Please notice: 
