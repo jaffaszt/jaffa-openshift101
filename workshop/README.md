@@ -4,10 +4,10 @@
 [Register IBM Cloud](https://ibm.biz/Bdz5we)
 
 # 2 Get access to IBM Kubernetes Cluster
-[access to IBM Kubernetes  Cluster](https://iksistio.mybluemix.net/)
+[access to IBM Kubernetes  Cluster](https://os101tlv.mybluemix.net)
 
 Use :  
-     Lab Key : `ikslab`
+     Lab Key : `oslab`
  
   IBMid : `your emailRegister to IBM Cloud`    
 
