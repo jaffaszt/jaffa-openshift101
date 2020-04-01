@@ -1,7 +1,7 @@
 
 # 1. Register to IBM Cloud 
 
-[Register IBM Cloud](https://ibm.biz/Bdz5we)
+[Register IBM Cloud](https://ibm.biz/BdqZqY)
 
 # 2 Get access to IBM Kubernetes Cluster
 [access to IBM Kubernetes  Cluster](https://os101tlv.mybluemix.net)
