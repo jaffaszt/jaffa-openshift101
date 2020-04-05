@@ -8,7 +8,7 @@ Then activate your account
 ‌Click on the confirmation link in the email you received from IBM to activate your cloud account. Make sure you check the spam folder in your email.
 
 # 2 Get access to IBM Kubernetes Cluster
-[access to IBM Kubernetes  Cluster](https://os101tlv.mybluemix.net)
+[access to IBM Kubernetes  Cluster]( https://os101tlv.mybluemix.net)
 
 Use :  
      Lab Key : `oslab`
