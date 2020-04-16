@@ -1,7 +1,7 @@
 
 # 1. Register to IBM Cloud 
 
-[Register IBM Cloud](https://ibm.biz/BdqZqY)
+[Register IBM Cloud](https://ibm.biz/BdqYyt)
 ![](README_images/reg1.png)
 
 Then activate your account
