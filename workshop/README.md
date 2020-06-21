@@ -2,6 +2,7 @@
 # 1. Register to IBM Cloud 
 
 [Register IBM Cloud](https://ibm.biz/Bdqmth)
+
 Please make sure to run all steps to get a valid IBM Lite Cloud account 
 
 # 2 Get access to IBM Kubernetes Cluster
