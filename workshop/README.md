@@ -21,7 +21,7 @@ Then follow the instructions ( it will look like this )
 # Step 3. Run the LAB 
 # Befor you run the lab Please notice: 
 1. Please run Exercise 1-4 .
-2. In Exercise 4 please notice to update the correct namespace (line5 ) and Deployment name (line 14 )  https://ibm-developer.gitbook.io/openshift101/workshop/exercise-04#enable-autoscaler 
+2. In Exercise 4 please notice to update the correct namespace (line5 ) and Deployment name (line 10 )  https://ibm-developer.gitbook.io/openshift101/workshop/exercise-04#enable-autoscaler 
 
 3. You could also run Exercise 6 . For that you will need to either use cloudshell with https://shell.cloud.ibm.com/ and install Docker there , or go over the [Setup CLI Access for the cluster](https://ibm-developer.gitbook.io/openshift101/getting-started/setup_cli) and then install Docker 
 # The LAB 
