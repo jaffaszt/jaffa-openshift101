@@ -22,6 +22,7 @@ Then follow the instructions ( it will look like this )
 # Befor you run the lab Please notice: 
 1. Please run Exercise 1-4 .
 2. When creating a project please add your initials to the name example-healthxx  so you will have a unique project (as  it is possible that you will share your cluster with another student ) 
+
 3 In Exercise 4 ( enable auroscaler ) please notice to update the correct namespace (line5 ) and Deployment name (node-s-2-i-openshift instaed of example  )  https://ibm-developer.gitbook.io/openshift101/workshop/exercise-04#enable-autoscaler 
 
 4. You could also run Exercise 6 . For that you will need to either use cloudshell with https://shell.cloud.ibm.com/ and install Docker there , or go over the [Setup CLI Access for the cluster](https://ibm-developer.gitbook.io/openshift101/getting-started/setup_cli) and then install Docker 
