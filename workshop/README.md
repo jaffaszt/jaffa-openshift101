@@ -21,7 +21,7 @@ Then follow the instructions ( it will look like this )
 # Step 3. Run the LAB 
 # Befor you run the lab Please notice: 
 1. Please run Exercise 1-4 .
-2. When creating a project please add your initials to the name example-healthxx  so you will have a unique project (as  it is possible that you will share your cluster with another student ) 
+2. When creating a project (exercise 1 ) please add your initials to the name example-healthxx  so you will have a unique project (as  it is possible that you will share your cluster with another student ) 
 
 3. In Exercise 4 ( enable auroscaler ) please notice to update the correct namespace (line5 ) and Deployment name (node-s-2-i-openshift instaed of example  )  https://ibm-developer.gitbook.io/openshift101/workshop/exercise-04#enable-autoscaler 
 
